@@ -14,3 +14,4 @@ class RunningSumOf1DArray {
 // https://leetcode.com/problems/running-sum-of-1d-array/
 // time complexity O(n)
 // memory complexity o(1)
+// 1480
