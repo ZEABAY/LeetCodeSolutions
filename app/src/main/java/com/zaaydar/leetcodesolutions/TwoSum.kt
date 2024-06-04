@@ -1,7 +1,7 @@
 package com.zaaydar.leetcodesolutions
 
 
-internal object TwoSum {
+class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray? {
         // i solved this in java , ill just convert
         val hashMap: MutableMap<Int, Int> = HashMap()
