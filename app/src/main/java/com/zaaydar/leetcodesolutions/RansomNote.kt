@@ -15,4 +15,4 @@ class RansomNote {
 // time O(m*n)
 // memory O(m*n)
 // 383
-// !! dont evet use contains or replacefirst
+// !! dont ever use contains or replacefirst
