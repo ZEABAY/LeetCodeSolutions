@@ -1,7 +1,7 @@
 package com.zaaydar.leetcodesolutions
 
 class FizzBuzz {
-    fun fizzBuzz(n: Int): List<String>? {
+    fun fizzBuzz(n: Int): List<String> {
 
         val result: MutableList<String> = mutableListOf()
         for (i in 1..n) {
